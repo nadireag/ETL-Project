@@ -34,7 +34,7 @@ Which types account for the most potential? By State?
 # ETL Project Report
 
 
-__Renewable Energy vs. Consumption in US by State__
+## __Renewable Energy vs. Consumption in US by State__
 
 
 ### Sources of data:
